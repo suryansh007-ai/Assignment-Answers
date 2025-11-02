@@ -133,5 +133,4 @@ int main()
         if(flag==0)
             break;
     }
-    printf("\nSuryansh Sirohi");
 }
